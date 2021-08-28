@@ -1,0 +1,7 @@
+|project
+y => x.DATAIN
+w => z.DATAIN
+z << w.DB_MAX_OUTPUT_PORT_TYPE
+x << y.DB_MAX_OUTPUT_PORT_TYPE
+
+
